@@ -83,7 +83,9 @@ Everything runs locally on CPU.
 │   ├── warning.wav            # 3 beeps at 800 Hz
 │   └── critical.wav           # Continuous tone at 1200 Hz
 │   └── logo.png               # logo
-│   └── favicon.png            # favicon
+│   └── logo.ico               # logo (backup)
+│   └── favicon.png            # favicon (backup)
+│   └── favicon.ico            # favicon
 ├── logs/
 │   └── session_log.csv        # Auto-generated event log
 └── README.md
@@ -262,3 +264,4 @@ If you like this project, consider supporting me on Buy Me a Coffee:
 ---
 
 <p align="center"> <b>NeuroGuard - AI Fatigue Monitor</b> </p>
+
